@@ -1,1 +1,28 @@
-aqui va la descripcio de la web de Pre-Chat
+🧠 PreChat - Web Oficial
+PreChat es una plataforma impulsada por inteligencia artificial diseñada para ofrecer una experiencia de atención automatizada y eficiente. Este sitio web funciona como presentación oficial del proyecto y punto de acceso a sus principales funciones y herramientas.
+
+🌐 ¿Qué incluye esta web?
+🏠 Inicio
+Página de bienvenida donde se presentan los valores de PreChat, su propuesta de valor y dos botones de acción principales:
+
+Probar Demo: acceso directo a una demostración funcional del chatbot.
+
+Probar Ahora: inicio del proceso de registro para usar PreChat con una cuenta.
+
+🛠️ Servicios
+Una sección aparte que muestra los servicios que ofrece PreChat, incluyendo automatización de atención, generación de leads y personalización de flujos conversacionales.
+
+💰 Precios
+Sección donde se detallan los distintos planes disponibles, diferenciando entre funcionalidades básicas, avanzadas y personalizadas.
+
+📞 Contacto
+Espacio para comunicarse con el equipo de PreChat, con botones que permiten iniciar conversación directa vía WhatsApp o enviar un correo electrónico.
+
+🧩 Características técnicas
+Interfaz diseñada para iniciar todo desde el archivo index.html.
+
+Integración con una base de datos SQLite3 para el registro de usuarios.
+
+Al registrarse, se activa automáticamente la lógica de backend para guardar los datos.
+
+Sistema de login e inicio de sesión funcional sin necesidad de abrir manualmente un archivo .py.
