@@ -1,5 +1,5 @@
 🧠 PreChat - Web Oficial
-PreChat es una plataforma impulsada por inteligencia artificial diseñada para ofrecer una experiencia de atención automatizada y eficiente. Este sitio web funciona como presentación oficial del proyecto y punto de acceso a sus principales funciones y herramientas.
+PreChat es una plataforma impuls ada por inteligencia artificial diseñada para ofrecer una experiencia de atención automatizada y eficiente. Este sitio web funciona como presentación oficial del proyecto y punto de acceso a sus principales funciones y herramientas.
 
 🌐 ¿Qué incluye esta web?
 🏠 Inicio
